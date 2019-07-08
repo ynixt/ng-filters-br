@@ -1,6 +1,6 @@
 {
   "name": "ng-filters-br",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/igorcosta/ng-filters-br",
   "authors": [
     "igorcosta <igorcosta@riacycle.com>"
@@ -16,9 +16,6 @@
     "ng-modules"
   ],
   "license": "Apache License 2.0",
-  "ignore": [
-        "**/*"
-  ],
   "dependencies": {
     "angular": "~1.2.19"
   },
